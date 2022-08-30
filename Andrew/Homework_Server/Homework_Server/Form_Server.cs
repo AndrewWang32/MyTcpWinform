@@ -1,20 +1,18 @@
-// 可參考 https://www.796t.com/content/1549246517.html 寫法
-
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
+// using System;
+// using System.Collections.Generic;
+// using System.ComponentModel;
+// using System.Data;
+// using System.Drawing;
+// using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.IO;
+// using System.Threading.Tasks;
+// using System.Windows.Forms;
+// using System.IO;
 using System.Net;
 using System.Net.Sockets;
-using System.Web;
-using System.Net.Security;
-using static System.Windows.Forms.AxHost;
+// using System.Web;
+// using System.Net.Security;
+// using static System.Windows.Forms.AxHost;
 
 namespace Homework_Server
 {
@@ -61,7 +59,6 @@ namespace Homework_Server
             while (a)
             {
                 Socket clientSocket = m_server.Accept();
-                // clientSocket.Send(Encoding.ASCII.GetBytes("Server Say Hello"));
                 UpdateStatus("Server is connect to Client.");
                 IPAddress cilentIP = IPAddress.Parse(((IPEndPoint)clientSocket.RemoteEndPoint).Address.ToString());
                 string clientPort = ((IPEndPoint)clientSocket.RemoteEndPoint).Port.ToString();
@@ -81,8 +78,6 @@ namespace Homework_Server
             int i = 0, j = 0;
             foreach (byte byteTmp in data)
             {
-                //string strByte = byteTmp.ToString();
-                //MessageBox.Show(strByte);
                 FlagGetString = true;
                 if (byteTmp == d)
                 {
@@ -118,8 +113,6 @@ namespace Homework_Server
                     byte[] byteTmp = GetStringFromClient(result);//去除多餘位元組
                     string stringData = Encoding.UTF8.GetString(byteTmp);//轉換為字串
 
-                    // Console.WriteLine("接收客戶端{0}訊息{1}", myClientSocket.RemoteEndPoint.ToString(), stringData);
-                    //myClientSocket.Send(Encoding.ASCII.GetBytes(stringData));
                     int len = stringData.Length;//計算字串長度
                     UpdateSize(len.ToString());//更新字串資料長度
                     ProcessFile(stringData, myClientSocket);
@@ -154,14 +147,10 @@ namespace Homework_Server
                 throw new ArgumentNullException("FileName");
             }
 
-            // Check to see if the file exists.
             FileInfo fileInfo = new FileInfo(path);
 
-            // You can throw a personalized exception if
-            // the file does not exist.
             if (!fileInfo.Exists)
             {
-                //throw new FileNotFoundException("The file was not found.", path);
                 UdpateFilename(path);
                 UpdateStatus("File does not exist.");
                 Thread.Sleep(300);
@@ -172,21 +161,20 @@ namespace Homework_Server
             {
                 if (File.Exists(path))
                 {
-                    // This path is a file
+                    // 開始處理檔案
                     UdpateFilename(fileInfo.FullName);
                     UpdateStatus(path + " exiest!");
-                    // Send file fileName to remote device
                     UpdateStatus("Sending " + path + " to the host.");
 
-                    // Create the preBuffer data.
+                    // 建立 preBuffer data.
                     string string1 = String.Format("File Downloading...{0}", Environment.NewLine);
                     byte[] preBuf = Encoding.ASCII.GetBytes(string1);
 
-                    // Create the postBuffer data.
+                    // 建立 postBuffer data.
                     string string2 = String.Format("{0}Download Complete!{1}", Environment.NewLine, Environment.NewLine);
                     byte[] postBuf = Encoding.ASCII.GetBytes(string2);
 
-                    //Send file fileName with buffers and default flags to the remote device.
+                    //傳送檔案
                     Console.WriteLine("Sending {0} with buffers to the host.{1}", path, Environment.NewLine);
                     client.SendFile(path, preBuf, postBuf, TransmitFileOptions.UseDefaultWorkerThread);
 
@@ -199,7 +187,6 @@ namespace Homework_Server
 
         private void UpdateClient(string ip, string port)
         {
-            // do something...
             if (this.InvokeRequired)
             {
                 delUpdateIP del = new delUpdateIP(UpdateClient);

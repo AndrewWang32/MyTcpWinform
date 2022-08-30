@@ -1,14 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
+// using System.Collections.Generic;
+// using System.ComponentModel;
+// using System.Data;
+// using System.Drawing;
+// using System.Linq;
 using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
+// using System.Threading;
+// using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Net;
+// using System.Net;
 using System.Net.Sockets;
 using System.IO;
 
@@ -107,10 +107,11 @@ namespace Homework_Andrew
         {
             char[] charDataValue;
             byte[] byDataValue;
+            byte[] byDataValueBuffer;
             MessageBox.Show("File Downloading to Path : " + filepath + "\\" + name);
             FileStream fsFile = new FileStream(filepath+"\\"+name, FileMode.Create, FileAccess.Write);
             charDataValue = data.ToCharArray();
-            byDataValue = new byte[charDataValue.Length+(1024*1024)];
+            byDataValue = new byte[charDataValue.Length*2];
 
             //將字符數組轉換成字節數組
             Encoder ec = Encoding.UTF8.GetEncoder();
