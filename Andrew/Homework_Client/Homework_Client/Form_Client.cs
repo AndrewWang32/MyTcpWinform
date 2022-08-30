@@ -64,7 +64,7 @@ namespace Homework_Andrew
                 }
                 else if(line == "error")
                 {
-                    MessageBox.Show("Receive: " + line);
+                    MessageBox.Show("File does not exist.");
                     break;
                 }
                 else if (line == "File Downloading...")

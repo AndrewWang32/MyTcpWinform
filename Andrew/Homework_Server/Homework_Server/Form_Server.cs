@@ -149,7 +149,6 @@ namespace Homework_Server
         private void ProcessFile(string path, Socket client)
         {
             UdpateFilename(path);
-            
             if (path == null || path.Length == 0)
             {
                 throw new ArgumentNullException("FileName");
@@ -162,10 +161,10 @@ namespace Homework_Server
             // the file does not exist.
             if (!fileInfo.Exists)
             {
-                throw new FileNotFoundException("The file was not found.", path);
+                //throw new FileNotFoundException("The file was not found.", path);
                 UdpateFilename(path);
                 UpdateStatus("File does not exist.");
-
+                Thread.Sleep(300);
                 string string4 = String.Format("error{0}", Environment.NewLine);
                 client.Send(Encoding.ASCII.GetBytes(string4));
             }
@@ -270,12 +269,6 @@ namespace Homework_Server
         private void Form_Server_FormClosing(object sender, FormClosingEventArgs e)
         {
             a = false;
-            // System.Text.StringBuilder messageBoxCS = new System.Text.StringBuilder();
-            // messageBoxCS.AppendFormat("{0} : {1}", "CloseReason", e.CloseReason);
-            // messageBoxCS.AppendLine();
-            // messageBoxCS.AppendFormat("{0} : {1}", "Cancel", e.Cancel);
-            // messageBoxCS.AppendLine();
-            // MessageBox.Show(messageBoxCS.ToString(), "FormClosing Event");
             System.Environment.Exit(0);
         }
 
