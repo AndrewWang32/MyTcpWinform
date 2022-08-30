@@ -1,0 +1,33 @@
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.exe.config
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.exe
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.pdb
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.AssemblyReference.cache
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.Form_Client.resources
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.Properties.Resources.resources
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.GenerateResource.cache
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.CoreCompileInputs.cache
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.exe
+C:\Users\agv\Desktop\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.pdb
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.exe.config
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.exe
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.pdb
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.AssemblyReference.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.Form_Client.resources
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.Properties.Resources.resources
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.GenerateResource.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.exe
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.pdb
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.exe.config
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.exe
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\bin\Debug\Homework_Andrew.pdb
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.AssemblyReference.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.Form_Client.resources
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.Properties.Resources.resources
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.GenerateResource.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Client.csproj.CoreCompileInputs.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.exe
+C:\Users\rosati\Desktop\Andrew\Homework_Client\Homework_Client\obj\Debug\Homework_Andrew.pdb

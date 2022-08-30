@@ -1,0 +1,11 @@
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.csproj.AssemblyReference.cache
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.csproj.SuggestedBindingRedirects.cache
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.Properties.Resources.resources
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.csproj.GenerateResource.cache
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.csproj.CoreCompileInputs.cache
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\bin\Debug\Homework_Andrew.exe.config
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\bin\Debug\Homework_Andrew.exe
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\bin\Debug\Homework_Andrew.pdb
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.exe
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.pdb
+C:\Users\agv\Desktop\Homework_Andrew\Homework_Andrew\obj\Debug\Homework_Andrew.Form_Client.resources

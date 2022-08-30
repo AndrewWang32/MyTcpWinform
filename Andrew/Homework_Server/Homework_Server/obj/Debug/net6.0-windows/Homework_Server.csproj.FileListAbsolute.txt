@@ -1,0 +1,51 @@
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.exe
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.deps.json
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.runtimeconfig.json
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.dll
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.pdb
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.AssemblyReference.cache
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.GenerateResource.cache
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.AssemblyInfoInputs.cache
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.AssemblyInfo.cs
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.CoreCompileInputs.cache
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.dll
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\refint\Homework_Server.dll
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.pdb
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.genruntimeconfig.cache
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\ref\Homework_Server.dll
+C:\Users\agv\Desktop\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.Form_Server.resources
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.AssemblyReference.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.Form_Server.resources
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.GenerateResource.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.AssemblyInfoInputs.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.AssemblyInfo.cs
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.CoreCompileInputs.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.dll
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\refint\Homework_Server.dll
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.pdb
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.exe
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.deps.json
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.runtimeconfig.json
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.dll
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.pdb
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.genruntimeconfig.cache
+C:\Users\rosati\Desktop\Andrew\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\ref\Homework_Server.dll
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.exe
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.deps.json
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.runtimeconfig.json
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.dll
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\bin\Debug\net6.0-windows\Homework_Server.pdb
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.AssemblyReference.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.Form_Server.resources
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.GenerateResource.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.AssemblyInfoInputs.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.AssemblyInfo.cs
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.dll
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\refint\Homework_Server.dll
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.pdb
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\Homework_Server.genruntimeconfig.cache
+C:\Users\Andrew Wang\Desktop\CodeProject\Homework_Server\Homework_Server\obj\Debug\net6.0-windows\ref\Homework_Server.dll
